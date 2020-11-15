@@ -11,3 +11,14 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.todolist
+{
+  display:block;
+  background: pink;
+}
+
+.green
+{
+  background-color: rgba(60, 187, 75, 0.44) !important;
+}
