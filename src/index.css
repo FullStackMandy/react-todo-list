@@ -16,9 +16,22 @@ code {
 {
   display:block;
   background: pink;
+  height: 300px;
+  width: 350px;
+  margin: 30px;
 }
 
 .green
 {
   background-color: rgba(60, 187, 75, 0.44) !important;
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: lighter;
+  padding: 10px;
+}
+
+button {
+  margin: 5px;
 }

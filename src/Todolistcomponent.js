@@ -7,8 +7,9 @@ class Todolist extends Component {
         return (
             <div className="todolist">
                 <h1>Todo List</h1>
+                <input className='inputfield' type='text' />
                 <button onClick={this.props.action.bind(this)}>
-                    Click to
+                    Click to add tasks
                 </button>
             </div>
         )
