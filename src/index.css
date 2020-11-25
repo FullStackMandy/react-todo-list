@@ -21,6 +21,14 @@ code {
   margin: 30px;
 }
 
+.purple
+{
+  background-color: rgba(72, 38, 221, 0.678) !important;
+}
+.blue
+{
+  background-color: rgba(60, 94, 187, 0.44) !important;
+}
 .green
 {
   background-color: rgba(60, 187, 75, 0.44) !important;
